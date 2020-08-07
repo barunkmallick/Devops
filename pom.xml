@@ -13,7 +13,7 @@
 	</properties>
 	
 	<build>
-		<finalName>hello</finalName>
+		<finalName>hello-1.0.1</finalName>
 		
 		<plugins>
 			<plugin>
